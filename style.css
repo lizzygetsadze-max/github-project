@@ -38,16 +38,6 @@ button:hover {
     cursor: pointer;
 }
 
-button:hover {
-    padding: 8px 15px;
-    border-radius: 15px;
-    border: none;
-    font-weight: 550;
-    background-color: rgb(34, 187, 98);
-    color: white;
-    cursor: pointer;
-}
-
 button:active {
     padding: 8px 15px;
     border-radius: 15px;
